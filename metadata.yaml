@@ -1,5 +1,8 @@
 _repo: How-to-study-The-best-short-stories-b-An-analysis-of-Edward-J-O-Brien-s-annual-volumes-of-the__74565
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74565-h/images/cover.jpg
 creator:
   author:
     agent_name: Williams, Blanche Colton
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '35248'
     url: http://www.gutenberg.org/2009/agents/35248
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74565#How-to-study-The-best-short-stories-b-An-analysis-of-Edward-J-O-Brien-s-annual-volumes-of-the_
 gutenberg_issued: '2024-10-12'
 gutenberg_type: Text
 identifiers:
